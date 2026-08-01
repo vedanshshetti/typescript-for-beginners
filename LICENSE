@@ -1,7 +1,7 @@
-NCOSS - NON-COMMERCIAL OPEN SOURCE SOFTWARE LICENSE
+NCOSS-EDU - NON-COMMERCIAL OPEN SOURCE SOFTWARE for EDUCATION LICENSE
 (Based off of the MIT License)
 
-SPDX-Identifier: LicenseRef-NCOSS-1.0
+SPDX-Identifier: LicenseRef-NCOSS-EDU
 
 ====================================================================================================
 
@@ -15,14 +15,18 @@ purposes only, subject to the following conditions:
   1. THE COMMERCIAL USE OF THE SOFTWARE IS STRICTLY PROHIBITED. 
      The term "Commercial Use" is clearly defined below.
 
-  2. Any republications of the Software (the term "republications", being defined below)
-     must attribute EITHER the original publication at
-     https://github.com/vedanshshetti/electronics-store OR the creator of the Software
-     at https://github.com/vedanshshetti. 
+  2. Any republications of the Software (see Definition 2a)
+     must attribute EITHER the original publication or the original publisher / author.
 
-  3. Copies or republications of existing republications (the term "republications", being
-     defined below), are subject to the above conditions as well, most notably
-     Condition Number 2, which handles attribution rules.
+  3. Copies or republications of existing republications (see Definition 2a), are subject to the above
+     conditions as well, most notably Condition Number 2, which handles attribution rules.
+
+  4. This Software legally identifies as "educational material", allowing for unrestricted use
+     by individuals and/or educational institutions, given that it is for educational purposes ONLY.
+  
+  5. The republication (see Definition 2b) of this educational coursework on educational platforms such as
+     Udemy, Coursera or such, regardless of Conditions 1 and 2, is STRICTLY PROHIBITED unless permission is
+     granted by copyright holder.
 
 
 DEFINITIONS:
@@ -30,9 +34,15 @@ DEFINITIONS:
     "Commercial use" means any use, reproduction, or distribution of the Software that is
     intended for or directed toward commercial advantage or monetary compensation.
   2. "Republication": 
-    The term "republication" means any copy of the Software, irrespective of modifications, 
-    irrespective of the platform of publication, irrespective of whether digital or physical,
-    published under a different author or publisher as the original. 
+    The term "republication" means either:
+      a) Any copy of the Software, irrespective of modifications, 
+         irrespective of the platform of publication, irrespective of whether digital or physical,
+         published under a different author or publisher as the original. 
+      b) The act of publishing any copy of the Software, irrespective of modifications,
+         irrespective of the platform of publication, irrespective of whether digital or physical,
+         under one's own name.
+
+      
       
     
 

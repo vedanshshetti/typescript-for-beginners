@@ -1,0 +1,48 @@
+NCOSS - NON-COMMERCIAL OPEN SOURCE SOFTWARE LICENSE
+(Based off of the MIT License)
+
+SPDX-Identifier: LicenseRef-NCOSS-1.0
+
+====================================================================================================
+
+Copyright (c) 2026 Vedansh Shetti <vedansh.shetti@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute the Software for non-commercial
+purposes only, subject to the following conditions:
+
+  1. THE COMMERCIAL USE OF THE SOFTWARE IS STRICTLY PROHIBITED. 
+     The term "Commercial Use" is clearly defined below.
+
+  2. Any republications of the Software (the term "republications", being defined below)
+     must attribute EITHER the original publication at
+     https://github.com/vedanshshetti/electronics-store OR the creator of the Software
+     at https://github.com/vedanshshetti. 
+
+  3. Copies or republications of existing republications (the term "republications", being
+     defined below), are subject to the above conditions as well, most notably
+     Condition Number 2, which handles attribution rules.
+
+
+DEFINITIONS:
+  1. "Commercial Use":
+    "Commercial use" means any use, reproduction, or distribution of the Software that is
+    intended for or directed toward commercial advantage or monetary compensation.
+  2. "Republication": 
+    The term "republication" means any copy of the Software, irrespective of modifications, 
+    irrespective of the platform of publication, irrespective of whether digital or physical,
+    published under a different author or publisher as the original. 
+      
+    
+
+The above copyright notice and this permission notice shall be included in all
+copies, republications and/or excerpts of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
